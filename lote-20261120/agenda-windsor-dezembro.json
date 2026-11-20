@@ -1,0 +1,516 @@
+{
+ "conta": "17841403980795741",
+ "fuso": "America/Sao_Paulo",
+ "itens": [
+  {
+   "id": "carrossel-01-12-whisky",
+   "data": "2026-12-01",
+   "hora": 10,
+   "acao": "create_carousel_post",
+   "params": {
+    "caption": "Quatro cestas de Natal para quem ama whisky: do Blue Label ao Chivas 18 anos. Envie para quem está escolhendo o presente. Fale com a gente no link da bio.\n\nBeba com moderação. Proibida a venda para menores de 18 anos.\n\n#CestasDeNatal #PresentesDeNatal",
+    "items": [
+     {
+      "image_url": "https://raw.githubusercontent.com/taketopbr/cestas-instagram-midia/main/lote-20261120/carrosseis/carrossel-01-12-whisky/01.jpg?v=1",
+      "alt_text": "Para quem ama whisky O presente de quem aprecia um bom whisky."
+     },
+     {
+      "image_url": "https://raw.githubusercontent.com/taketopbr/cestas-instagram-midia/main/lote-20261120/carrosseis/carrossel-01-12-whisky/02.jpg?v=1",
+      "alt_text": "Whisky no Natal Um rótulo escolhido diz muito. Quatro cestas com whisky, cada uma para um jeito de presentear."
+     },
+     {
+      "image_url": "https://raw.githubusercontent.com/taketopbr/cestas-instagram-midia/main/lote-20261120/carrosseis/carrossel-01-12-whisky/03.jpg?v=1",
+      "alt_text": "1 DE 4 Blue Label. O rótulo mais desejado, com petiscos à altura. Na cesta ao Whisky Blue Label: whisky Blue Label, jamón espanhol, queijo Brie, brusqueta, pistaches iranianos e castanhas, na caixa de couro ecológico."
+     },
+     {
+      "image_url": "https://raw.githubusercontent.com/taketopbr/cestas-instagram-midia/main/lote-20261120/carrosseis/carrossel-01-12-whisky/04.jpg?v=1",
+      "alt_text": "2 DE 4 Dois whiskies. Para quem gosta de comparar. Na cesta Riviera: whiskies Chivas Regal 18 anos e Woodford Reserve, champanhe Veuve Clicquot, vinhos chilenos Casa Silva Gran Reserva e panetone italiano."
+     },
+     {
+      "image_url": "https://raw.githubusercontent.com/taketopbr/cestas-instagram-midia/main/lote-20261120/carrosseis/carrossel-01-12-whisky/05.jpg?v=1",
+      "alt_text": "3 DE 4 Whisky e ceia. O whisky com a mesa de Natal junto. Na cesta Kastoria: whisky Chivas Regal 12 anos, espumante, vinhos chilenos e panetone Cacau Show."
+     },
+     {
+      "image_url": "https://raw.githubusercontent.com/taketopbr/cestas-instagram-midia/main/lote-20261120/carrosseis/carrossel-01-12-whisky/06.jpg?v=1",
+      "alt_text": "4 DE 4 18 anos. Para a mesa farta, com decanter. Na cesta Escócia: whiskies Chivas Regal 18 anos e Gold Label, champanhe, vinho do Porto no decanter, Chianti e panetone italiano."
+     },
+     {
+      "image_url": "https://raw.githubusercontent.com/taketopbr/cestas-instagram-midia/main/lote-20261120/carrosseis/carrossel-01-12-whisky/07.jpg?v=1",
+      "alt_text": "Para quem aprecia Qual combina com ele? Conte para quem é e a gente indica a cesta certa. Fale com a gente no link da bio"
+     }
+    ]
+   }
+  },
+  {
+   "id": "foto-01-12",
+   "data": "2026-12-01",
+   "hora": 12,
+   "acao": "create_image_post",
+   "params": {
+    "image_url": "https://raw.githubusercontent.com/taketopbr/cestas-instagram-midia/main/lote-20261120/fotos/01-12-fasano.jpg?v=1",
+    "caption": "Cesta de Natal Fasano.\n\nProsecco Fasano, Chianti Fasano, panetone Fasano e antepastos italianos. Fale com a gente no link da bio.\n\nBeba com moderação. Proibida a venda para menores de 18 anos.\n\n#CestasDeNatal #PresentesDeNatal",
+    "alt_text": "Cesta de Natal Fasano: Prosecco Fasano, Chianti Fasano, panetone Fasano e antepastos italianos."
+   }
+  },
+  {
+   "id": "foto-03-12",
+   "data": "2026-12-03",
+   "hora": 10,
+   "acao": "create_image_post",
+   "params": {
+    "image_url": "https://raw.githubusercontent.com/taketopbr/cestas-instagram-midia/main/lote-20261120/fotos/03-12-amarone.jpg?v=1",
+    "caption": "Cesta de Natal Amarone.\n\nVinho Amarone della Valpolicella, champanhe Veuve Clicquot, jamón espanhol com suporte e faca e bolsa térmica de sommelier, na caixa de couro. Fale com a gente no link da bio.\n\nBeba com moderação. Proibida a venda para menores de 18 anos.\n\n#CestasDeNatal #PresentesDeNatal",
+    "alt_text": "Cesta de Natal Amarone: Vinho Amarone della Valpolicella, champanhe Veuve Clicquot, jamón espanhol com suporte e faca e bolsa térmica de sommelier, na caixa de couro."
+   }
+  },
+  {
+   "id": "carrossel-04-12-sem-alcool",
+   "data": "2026-12-04",
+   "hora": 12,
+   "acao": "create_carousel_post",
+   "params": {
+    "caption": "Quatro cestas de Natal sem álcool, com o mesmo cuidado de sempre. Envie para quem vai presentear alguém que não bebe. Fale com a gente no link da bio.\n\n#CestasDeNatal #NatalSemAlcool",
+    "items": [
+     {
+      "image_url": "https://raw.githubusercontent.com/taketopbr/cestas-instagram-midia/main/lote-20261120/carrosseis/carrossel-04-12-sem-alcool/01.jpg?v=1",
+      "alt_text": "Sem álcool Para quem não bebe, o mesmo cuidado."
+     },
+     {
+      "image_url": "https://raw.githubusercontent.com/taketopbr/cestas-instagram-midia/main/lote-20261120/carrosseis/carrossel-04-12-sem-alcool/02.jpg?v=1",
+      "alt_text": "Todo mundo à mesa Sem álcool também é alto padrão. Quatro cestas sem álcool, com panetone, sucos e petiscos de verdade."
+     },
+     {
+      "image_url": "https://raw.githubusercontent.com/taketopbr/cestas-instagram-midia/main/lote-20261120/carrosseis/carrossel-04-12-sem-alcool/03.jpg?v=1",
+      "alt_text": "1 DE 4 Doce e salgado. Dois panetones e frios para a mesa. Na cesta sem álcool Mar Del Plata: dois panetones Cacau Show, salame italiano, suco de uva, bolo de nozes e queijo Grana Padano."
+     },
+     {
+      "image_url": "https://raw.githubusercontent.com/taketopbr/cestas-instagram-midia/main/lote-20261120/carrosseis/carrossel-04-12-sem-alcool/04.jpg?v=1",
+      "alt_text": "2 DE 4 Na caixa de couro. Para presentear com elegância. Na cesta sem álcool Castela La Mancha: azeite espanhol, panetone Maestra, massa italiana na ânfora e bombons Lindt, na caixa de couro ecológico e madeira."
+     },
+     {
+      "image_url": "https://raw.githubusercontent.com/taketopbr/cestas-instagram-midia/main/lote-20261120/carrosseis/carrossel-04-12-sem-alcool/05.jpg?v=1",
+      "alt_text": "3 DE 4 Sucos finos. Para brindar sem álcool. Na cesta sem álcool Monte Verde: sucos de uva e de tangerina com acerola, água Voss, panetones, chá e tâmaras."
+     },
+     {
+      "image_url": "https://raw.githubusercontent.com/taketopbr/cestas-instagram-midia/main/lote-20261120/carrosseis/carrossel-04-12-sem-alcool/06.jpg?v=1",
+      "alt_text": "4 DE 4 Leve e completa. Sucos, panetone e frutas para a ceia. Na cesta sem álcool Bariloche: sucos, água norueguesa Voss, panetone Cacau Show La Creme, azeite chileno e damascos em calda."
+     },
+     {
+      "image_url": "https://raw.githubusercontent.com/taketopbr/cestas-instagram-midia/main/lote-20261120/carrosseis/carrossel-04-12-sem-alcool/07.jpg?v=1",
+      "alt_text": "Para quem não bebe Ninguém fica de fora. Fale com a gente e escolha a sua cesta sem álcool. Fale com a gente no link da bio"
+     }
+    ]
+   }
+  },
+  {
+   "id": "reel-06-12-677",
+   "data": "2026-12-06",
+   "hora": 20,
+   "acao": "create_video_post",
+   "params": {
+    "video_url": "https://raw.githubusercontent.com/taketopbr/cestas-instagram-midia/main/lote-20261120/reels/reel-06-12-677.mp4?v=1",
+    "cover_url": "https://raw.githubusercontent.com/taketopbr/cestas-instagram-midia/main/lote-20261120/reels/reel-06-12-677-capa.jpg?v=1",
+    "caption": "POV: você abre o presente de fim de ano da empresa. Cesta de Natal Plenitude: whisky Chivas Regal 12 anos, vinhos chilenos Casa Silva Gran Reserva, espumante italiano, vinho do Porto e panetone italiano. Fale com a gente no link da bio.\n\nBeba com moderação. Proibida a venda para menores de 18 anos.\n\n#CestasDeNatal #PresentesDeNatal",
+    "share_to_feed": true
+   }
+  },
+  {
+   "id": "foto-08-12",
+   "data": "2026-12-08",
+   "hora": 12,
+   "acao": "create_image_post",
+   "params": {
+    "image_url": "https://raw.githubusercontent.com/taketopbr/cestas-instagram-midia/main/lote-20261120/fotos/08-12-bari.jpg?v=1",
+    "caption": "Cesta de Natal Bari.\n\nEspumante francês La Fleur de François, Chianti Clássico Fasano, panetone de pistache e queijo Grana Padano. Fale com a gente no link da bio.\n\nBeba com moderação. Proibida a venda para menores de 18 anos.\n\n#CestasDeNatal #PresentesDeNatal",
+    "alt_text": "Cesta de Natal Bari: Espumante francês La Fleur de François, Chianti Clássico Fasano, panetone de pistache e queijo Grana Padano."
+   }
+  },
+  {
+   "id": "foto-10-12",
+   "data": "2026-12-10",
+   "hora": 10,
+   "acao": "create_image_post",
+   "params": {
+    "image_url": "https://raw.githubusercontent.com/taketopbr/cestas-instagram-midia/main/lote-20261120/fotos/10-12-canada.jpg?v=1",
+    "caption": "Cesta de Natal Canadá.\n\nWhiskies Chivas Regal 15 anos e Johnnie Walker Wine Cask, champanhe, gin com duas taças, vinho do Porto 10 anos no decanter e jamón espanhol. Fale com a gente no link da bio.\n\nBeba com moderação. Proibida a venda para menores de 18 anos.\n\n#CestasDeNatal #PresentesDeNatal",
+    "alt_text": "Cesta de Natal Canadá: Whiskies Chivas Regal 15 anos e Johnnie Walker Wine Cask, champanhe, gin com duas taças, vinho do Porto 10 anos no decanter e jamón espanhol."
+   }
+  },
+  {
+   "id": "carrossel-11-12-vinho",
+   "data": "2026-12-11",
+   "hora": 12,
+   "acao": "create_carousel_post",
+   "params": {
+    "caption": "Quatro cestas de Natal para quem ama vinho: Malbec, Carmenere, Chianti e espumante. Salve este guia e envie para quem vai presentear. Fale com a gente no link da bio.\n\nBeba com moderação. Proibida a venda para menores de 18 anos.\n\n#CestasDeNatal #PresentesDeNatal",
+    "items": [
+     {
+      "image_url": "https://raw.githubusercontent.com/taketopbr/cestas-instagram-midia/main/lote-20261120/carrosseis/carrossel-11-12-vinho/01.jpg?v=1",
+      "alt_text": "Para quem ama vinho O vinho certo para cada mesa."
+     },
+     {
+      "image_url": "https://raw.githubusercontent.com/taketopbr/cestas-instagram-midia/main/lote-20261120/carrosseis/carrossel-11-12-vinho/02.jpg?v=1",
+      "alt_text": "Vinho no Natal Tinto, rosê ou borbulhas. Quatro cestas com vinho e o que combina com ele."
+     },
+     {
+      "image_url": "https://raw.githubusercontent.com/taketopbr/cestas-instagram-midia/main/lote-20261120/carrosseis/carrossel-11-12-vinho/03.jpg?v=1",
+      "alt_text": "1 DE 4 Malbec argentino. Simples e certeira. Na cesta Zapata: vinho argentino Angélica Zapata, panetone Maestra e massa italiana em ânfora."
+     },
+     {
+      "image_url": "https://raw.githubusercontent.com/taketopbr/cestas-instagram-midia/main/lote-20261120/carrosseis/carrossel-11-12-vinho/04.jpg?v=1",
+      "alt_text": "2 DE 4 Carmenere chileno. Com bombons para depois. Na cesta Torres: vinho chileno Carmenere Casa Silva, panetone Maestra, bombons Lindt Lindor e massa italiana em ânfora."
+     },
+     {
+      "image_url": "https://raw.githubusercontent.com/taketopbr/cestas-instagram-midia/main/lote-20261120/carrosseis/carrossel-11-12-vinho/05.jpg?v=1",
+      "alt_text": "3 DE 4 Chianti italiano. O clássico da Toscana. Na cesta Viena: Chianti Clássico Fasano, panetone Maestra e bombons Lindt."
+     },
+     {
+      "image_url": "https://raw.githubusercontent.com/taketopbr/cestas-instagram-midia/main/lote-20261120/carrosseis/carrossel-11-12-vinho/06.jpg?v=1",
+      "alt_text": "4 DE 4 Vinho e espumante. Para a ceia inteira. Na cesta Tunísia: espumante espanhol Constelacion, vinho chileno Santa Vita Gran Reserva, panetone Cacau Show, azeite português, queijo Brie e grissinis."
+     },
+     {
+      "image_url": "https://raw.githubusercontent.com/taketopbr/cestas-instagram-midia/main/lote-20261120/carrosseis/carrossel-11-12-vinho/07.jpg?v=1",
+      "alt_text": "Para quem ama vinho Qual é o preferido? Conte para quem é e a gente indica a cesta. Fale com a gente no link da bio"
+     }
+    ]
+   }
+  },
+  {
+   "id": "reel-13-12-555",
+   "data": "2026-12-13",
+   "hora": 20,
+   "acao": "create_video_post",
+   "params": {
+    "video_url": "https://raw.githubusercontent.com/taketopbr/cestas-instagram-midia/main/lote-20261120/reels/reel-13-12-555.mp4?v=1",
+    "cover_url": "https://raw.githubusercontent.com/taketopbr/cestas-instagram-midia/main/lote-20261120/reels/reel-13-12-555-capa.jpg?v=1",
+    "caption": "Presente certo não precisa ser enorme. Cesta Gourmet Alma Negra: vinho argentino Alma Negra, duas taças de cristal, queijo Grana Padano, crostinis e brusqueta, na caixa de presente com alça. Fale com a gente no link da bio.\n\nBeba com moderação. Proibida a venda para menores de 18 anos.\n\n#CestasDeNatal #PresentesDeNatal",
+    "share_to_feed": true
+   }
+  },
+  {
+   "id": "foto-15-12",
+   "data": "2026-12-15",
+   "hora": 12,
+   "acao": "create_image_post",
+   "params": {
+    "image_url": "https://raw.githubusercontent.com/taketopbr/cestas-instagram-midia/main/lote-20261120/fotos/15-12-elegancia.jpg?v=1",
+    "caption": "Cesta de Natal Elegância.\n\nEspumante e Chianti Fasano, vinho do Porto 10 anos no decanter, panetone Maestra e bombons Lindt Lindor, na caixa de couro. Fale com a gente no link da bio.\n\nBeba com moderação. Proibida a venda para menores de 18 anos.\n\n#CestasDeNatal #PresentesDeNatal",
+    "alt_text": "Cesta de Natal Elegância: Espumante e Chianti Fasano, vinho do Porto 10 anos no decanter, panetone Maestra e bombons Lindt Lindor, na caixa de couro."
+   }
+  },
+  {
+   "id": "foto-17-12",
+   "data": "2026-12-17",
+   "hora": 10,
+   "acao": "create_image_post",
+   "params": {
+    "image_url": "https://raw.githubusercontent.com/taketopbr/cestas-instagram-midia/main/lote-20261120/fotos/17-12-ferrara.jpg?v=1",
+    "caption": "Cesta de Natal Ferrara.\n\nChampanhe Veuve Clicquot, vinho argentino Angélica Zapata, panetone italiano e queijo francês President. Fale com a gente no link da bio.\n\nBeba com moderação. Proibida a venda para menores de 18 anos.\n\n#CestasDeNatal #PresentesDeNatal",
+    "alt_text": "Cesta de Natal Ferrara: Champanhe Veuve Clicquot, vinho argentino Angélica Zapata, panetone italiano e queijo francês President."
+   }
+  },
+  {
+   "id": "carrossel-18-12-clientes-e-parceiros",
+   "data": "2026-12-18",
+   "hora": 12,
+   "acao": "create_carousel_post",
+   "params": {
+    "caption": "Quatro cestas de Natal para presentear clientes e parceiros. Envie para quem cuida dos presentes de fim de ano da sua empresa. Fale com a gente no link da bio.\n\nBeba com moderação. Proibida a venda para menores de 18 anos.\n\n#CestasDeNatal #PresentesCorporativos",
+    "items": [
+     {
+      "image_url": "https://raw.githubusercontent.com/taketopbr/cestas-instagram-midia/main/lote-20261120/carrosseis/carrossel-18-12-clientes-e-parceiros/01.jpg?v=1",
+      "alt_text": "Para clientes e parceiros O presente que fala pela empresa."
+     },
+     {
+      "image_url": "https://raw.githubusercontent.com/taketopbr/cestas-instagram-midia/main/lote-20261120/carrosseis/carrossel-18-12-clientes-e-parceiros/02.jpg?v=1",
+      "alt_text": "Fim de ano Agradecer é presentear bem. Quatro cestas de alto padrão para quem fez o seu ano."
+     },
+     {
+      "image_url": "https://raw.githubusercontent.com/taketopbr/cestas-instagram-midia/main/lote-20261120/carrosseis/carrossel-18-12-clientes-e-parceiros/03.jpg?v=1",
+      "alt_text": "1 DE 4 Para o cliente especial. A mais completa. Na cesta Suíça: whiskies Johnnie Walker Blue Label 21 anos e Royal Salute 21 anos, champanhe Veuve Clicquot, Brunello di Montalcino, Barolo e vinho do Porto 20 anos."
+     },
+     {
+      "image_url": "https://raw.githubusercontent.com/taketopbr/cestas-instagram-midia/main/lote-20261120/carrosseis/carrossel-18-12-clientes-e-parceiros/04.jpg?v=1",
+      "alt_text": "2 DE 4 Para a diretoria. Royal Salute e champanhe. Na cesta Luxemburgo: whisky Royal Salute 21 anos, champanhe Veuve Clicquot, gin com duas taças, vinho do Porto 10 anos no decanter e vodka Grey Goose."
+     },
+     {
+      "image_url": "https://raw.githubusercontent.com/taketopbr/cestas-instagram-midia/main/lote-20261120/carrosseis/carrossel-18-12-clientes-e-parceiros/05.jpg?v=1",
+      "alt_text": "3 DE 4 Para o parceiro. Whisky, espumantes e vinhos. Na cesta Paris: whisky Johnnie Walker Gold Label Reserve, dois espumantes, vinho do Porto, vinhos chileno e francês e panetone Maestra."
+     },
+     {
+      "image_url": "https://raw.githubusercontent.com/taketopbr/cestas-instagram-midia/main/lote-20261120/carrosseis/carrossel-18-12-clientes-e-parceiros/06.jpg?v=1",
+      "alt_text": "4 DE 4 Para o sócio. Três whiskies e a mesa toda. Na cesta Malta: whiskies Blue Label, Royal Salute 21 anos e Chivas 18 anos, bacalhau do Porto, jamón espanhol e decanter de cristal."
+     },
+     {
+      "image_url": "https://raw.githubusercontent.com/taketopbr/cestas-instagram-midia/main/lote-20261120/carrosseis/carrossel-18-12-clientes-e-parceiros/07.jpg?v=1",
+      "alt_text": "Presentes da empresa Quem você quer agradecer? Fale com a gente: ajudamos a montar a lista. Fale com a gente no link da bio"
+     }
+    ]
+   }
+  },
+  {
+   "id": "reel-20-12-57",
+   "data": "2026-12-20",
+   "hora": 20,
+   "acao": "create_video_post",
+   "params": {
+    "video_url": "https://raw.githubusercontent.com/taketopbr/cestas-instagram-midia/main/lote-20261120/reels/reel-20-12-57.mp4?v=1",
+    "cover_url": "https://raw.githubusercontent.com/taketopbr/cestas-instagram-midia/main/lote-20261120/reels/reel-20-12-57-capa.jpg?v=1",
+    "caption": "Ainda sem presente para a sogra? Resolvido: Cesta de Natal Veneza, com vinho do Porto 10 anos, prosecco Gancia, rosê La Piu Belle, vinho chileno Casa Silva e licor italiano. Fale com a gente no link da bio.\n\nBeba com moderação. Proibida a venda para menores de 18 anos.\n\n#CestasDeNatal #PresentesDeNatal",
+    "share_to_feed": true
+   }
+  },
+  {
+   "id": "foto-22-12",
+   "data": "2026-12-22",
+   "hora": 12,
+   "acao": "create_image_post",
+   "params": {
+    "image_url": "https://raw.githubusercontent.com/taketopbr/cestas-instagram-midia/main/lote-20261120/fotos/22-12-glamour.jpg?v=1",
+    "caption": "Cesta de Natal Glamour.\n\nChampanhe Moët & Chandon, Barolo Fasano, vinho do Porto 10 anos e arroz negro para risoto, na caixa de couro. Fale com a gente no link da bio.\n\nBeba com moderação. Proibida a venda para menores de 18 anos.\n\n#CestasDeNatal #PresentesDeNatal",
+    "alt_text": "Cesta de Natal Glamour: Champanhe Moët & Chandon, Barolo Fasano, vinho do Porto 10 anos e arroz negro para risoto, na caixa de couro."
+   }
+  },
+  {
+   "id": "foto-24-12",
+   "data": "2026-12-24",
+   "hora": 10,
+   "acao": "create_image_post",
+   "params": {
+    "image_url": "https://raw.githubusercontent.com/taketopbr/cestas-instagram-midia/main/lote-20261120/fotos/24-12-jamon.jpg?v=1",
+    "caption": "Cesta de Natal Jamon.\n\nChampanhe Veuve Clicquot, vinho argentino Angélica Zapata, jamón espanhol com suporte e faca e bolsa térmica de sommelier. Fale com a gente no link da bio.\n\nBeba com moderação. Proibida a venda para menores de 18 anos.\n\n#CestasDeNatal #PresentesDeNatal",
+    "alt_text": "Cesta de Natal Jamon: Champanhe Veuve Clicquot, vinho argentino Angélica Zapata, jamón espanhol com suporte e faca e bolsa térmica de sommelier."
+   }
+  },
+  {
+   "id": "carrossel-25-12-feliz-natal",
+   "data": "2026-12-25",
+   "hora": 10,
+   "acao": "create_carousel_post",
+   "params": {
+    "caption": "Feliz Natal. Que a sua mesa esteja cheia e a sua casa, também. Boas festas da Cestas Sofisticadas.\n\nBeba com moderação. Proibida a venda para menores de 18 anos.\n\n#FelizNatal #CestasDeNatal",
+    "items": [
+     {
+      "image_url": "https://raw.githubusercontent.com/taketopbr/cestas-instagram-midia/main/lote-20261120/carrosseis/carrossel-25-12-feliz-natal/01.jpg?v=1",
+      "alt_text": "Feliz Natal Que a sua mesa esteja cheia hoje."
+     },
+     {
+      "image_url": "https://raw.githubusercontent.com/taketopbr/cestas-instagram-midia/main/lote-20261120/carrosseis/carrossel-25-12-feliz-natal/02.jpg?v=1",
+      "alt_text": "Boas festas Obrigado por fazer parte do nosso Natal. Quatro cestas que estiveram em muitas mesas este ano."
+     },
+     {
+      "image_url": "https://raw.githubusercontent.com/taketopbr/cestas-instagram-midia/main/lote-20261120/carrosseis/carrossel-25-12-feliz-natal/03.jpg?v=1",
+      "alt_text": "1 DE 4 O brinde. Whisky, espumante e vinho. Na cesta Itália: whisky Johnnie Walker Black Label, espumante italiano, vinhos chilenos e panetone Cacau Show."
+     },
+     {
+      "image_url": "https://raw.githubusercontent.com/taketopbr/cestas-instagram-midia/main/lote-20261120/carrosseis/carrossel-25-12-feliz-natal/04.jpg?v=1",
+      "alt_text": "2 DE 4 A ceia. Para a mesa cheia. Na cesta Lux Luz: dois espumantes, vinho do Porto, vinhos, panetone Cacau Show e bolo de Natal."
+     },
+     {
+      "image_url": "https://raw.githubusercontent.com/taketopbr/cestas-instagram-midia/main/lote-20261120/carrosseis/carrossel-25-12-feliz-natal/05.jpg?v=1",
+      "alt_text": "3 DE 4 A festa. Rosê e whisky na mesma caixa. Na cesta Cannes: whisky Johnnie Walker Red Label, espumante rosê espanhol, vinho chileno, panetone Cacau Show e queijo Brie."
+     },
+     {
+      "image_url": "https://raw.githubusercontent.com/taketopbr/cestas-instagram-midia/main/lote-20261120/carrosseis/carrossel-25-12-feliz-natal/06.jpg?v=1",
+      "alt_text": "4 DE 4 A família. Para dividir com todos. Na cesta Espanha: whisky Jack Daniel's, espumante Franciacorta, vinho do Porto e panetone Cacau Show."
+     },
+     {
+      "image_url": "https://raw.githubusercontent.com/taketopbr/cestas-instagram-midia/main/lote-20261120/carrosseis/carrossel-25-12-feliz-natal/07.jpg?v=1",
+      "alt_text": "Feliz Natal Boas festas da Cestas Sofisticadas. Obrigado por estar com a gente. Fale com a gente no link da bio"
+     }
+    ]
+   }
+  },
+  {
+   "id": "foto-25-12",
+   "data": "2026-12-25",
+   "hora": 18,
+   "acao": "create_image_post",
+   "params": {
+    "image_url": "https://raw.githubusercontent.com/taketopbr/cestas-instagram-midia/main/lote-20261120/fotos/25-12-inglaterra.jpg?v=1",
+    "caption": "Cesta de Natal Inglaterra.\n\nWhisky Johnnie Walker Gold Label Reserve, champanhe Moët & Chandon, vinho do Porto 10 anos, vinhos e panetone Maestra. Fale com a gente no link da bio.\n\nBeba com moderação. Proibida a venda para menores de 18 anos.\n\n#CestasDeNatal #PresentesDeNatal",
+    "alt_text": "Cesta de Natal Inglaterra: Whisky Johnnie Walker Gold Label Reserve, champanhe Moët & Chandon, vinho do Porto 10 anos, vinhos e panetone Maestra."
+   }
+  },
+  {
+   "id": "foto-26-12",
+   "data": "2026-12-26",
+   "hora": 12,
+   "acao": "create_image_post",
+   "params": {
+    "image_url": "https://raw.githubusercontent.com/taketopbr/cestas-instagram-midia/main/lote-20261120/fotos/26-12-islay.jpg?v=1",
+    "caption": "Cesta de Natal Islay.\n\nWhisky Royal Salute 21 anos, jamón espanhol com suporte e faca, panetone Fasano e frutas secas, na caixa de couro. Fale com a gente no link da bio.\n\nBeba com moderação. Proibida a venda para menores de 18 anos.\n\n#CestasDeNatal #PresentesDeFimDeAno",
+    "alt_text": "Cesta de Natal Islay: Whisky Royal Salute 21 anos, jamón espanhol com suporte e faca, panetone Fasano e frutas secas, na caixa de couro."
+   }
+  },
+  {
+   "id": "foto-27-12",
+   "data": "2026-12-27",
+   "hora": 12,
+   "acao": "create_image_post",
+   "params": {
+    "image_url": "https://raw.githubusercontent.com/taketopbr/cestas-instagram-midia/main/lote-20261120/fotos/27-12-jordania.jpg?v=1",
+    "caption": "Cesta de Natal Jordânia.\n\nWhisky Johnnie Walker Red Label, vinho chileno Santa Vita Gran Reserva, vinho do Porto e panetone Cacau Show trufado. Fale com a gente no link da bio.\n\nBeba com moderação. Proibida a venda para menores de 18 anos.\n\n#CestasDeNatal #PresentesDeFimDeAno",
+    "alt_text": "Cesta de Natal Jordânia: Whisky Johnnie Walker Red Label, vinho chileno Santa Vita Gran Reserva, vinho do Porto e panetone Cacau Show trufado."
+   }
+  },
+  {
+   "id": "reel-27-12-46",
+   "data": "2026-12-27",
+   "hora": 18,
+   "acao": "create_video_post",
+   "params": {
+    "video_url": "https://raw.githubusercontent.com/taketopbr/cestas-instagram-midia/main/lote-20261120/reels/reel-27-12-46.mp4?v=1",
+    "cover_url": "https://raw.githubusercontent.com/taketopbr/cestas-instagram-midia/main/lote-20261120/reels/reel-27-12-46-capa.jpg?v=1",
+    "caption": "Faltou alguém na lista? Para agradecer no fim de ano: Cesta de Natal Porto França, com espumante rosê Constelacion, vinho chileno, gnocchi, creme de avelã e azeite português. Fale com a gente no link da bio.\n\nBeba com moderação. Proibida a venda para menores de 18 anos.\n\n#Reveillon #PresentesDeFimDeAno",
+    "share_to_feed": true
+   }
+  },
+  {
+   "id": "foto-28-12",
+   "data": "2026-12-28",
+   "hora": 10,
+   "acao": "create_image_post",
+   "params": {
+    "image_url": "https://raw.githubusercontent.com/taketopbr/cestas-instagram-midia/main/lote-20261120/fotos/28-12-luxemburgo.jpg?v=1",
+    "caption": "Cesta de Natal Luxemburgo.\n\nWhisky Royal Salute 21 anos, champanhe Veuve Clicquot, gin com duas taças, vinho do Porto 10 anos no decanter e vodka Grey Goose. Fale com a gente no link da bio.\n\nBeba com moderação. Proibida a venda para menores de 18 anos.\n\n#CestasDeNatal #PresentesDeFimDeAno",
+    "alt_text": "Cesta de Natal Luxemburgo: Whisky Royal Salute 21 anos, champanhe Veuve Clicquot, gin com duas taças, vinho do Porto 10 anos no decanter e vodka Grey Goose."
+   }
+  },
+  {
+   "id": "reel-28-12-899",
+   "data": "2026-12-28",
+   "hora": 18,
+   "acao": "create_video_post",
+   "params": {
+    "video_url": "https://raw.githubusercontent.com/taketopbr/cestas-instagram-midia/main/lote-20261120/reels/reel-28-12-899.mp4?v=1",
+    "cover_url": "https://raw.githubusercontent.com/taketopbr/cestas-instagram-midia/main/lote-20261120/reels/reel-28-12-899-capa.jpg?v=1",
+    "caption": "Réveillon: o brinde já está escolhido? Cesta Reveillon Natal Moscatel Perini: espumante moscatel Casa Perini na champanheira personalizada, biscoitos, chocolate e guardanapos de festa. Fale com a gente no link da bio.\n\nBeba com moderação. Proibida a venda para menores de 18 anos.\n\n#Reveillon #PresentesDeFimDeAno",
+    "share_to_feed": true
+   }
+  },
+  {
+   "id": "carrossel-29-12-reveillon",
+   "data": "2026-12-29",
+   "hora": 10,
+   "acao": "create_carousel_post",
+   "params": {
+    "caption": "Cestas para a virada: quatro opções com espumante para levar ao Réveillon. Salve e envie para quem vai à festa. Fale com a gente no link da bio.\n\nBeba com moderação. Proibida a venda para menores de 18 anos.\n\n#Reveillon #PresentesDeFimDeAno",
+    "items": [
+     {
+      "image_url": "https://raw.githubusercontent.com/taketopbr/cestas-instagram-midia/main/lote-20261120/carrosseis/carrossel-29-12-reveillon/01.jpg?v=1",
+      "alt_text": "Réveillon Cestas para a virada."
+     },
+     {
+      "image_url": "https://raw.githubusercontent.com/taketopbr/cestas-instagram-midia/main/lote-20261120/carrosseis/carrossel-29-12-reveillon/02.jpg?v=1",
+      "alt_text": "Fim de ano O ano termina num brinde. Quatro cestas com espumante para levar à festa da virada."
+     },
+     {
+      "image_url": "https://raw.githubusercontent.com/taketopbr/cestas-instagram-midia/main/lote-20261120/carrosseis/carrossel-29-12-reveillon/03.jpg?v=1",
+      "alt_text": "1 DE 4 Prosecco e taças. Para brindar à meia-noite. Na cesta Lille II: prosecco Valdobbiadene, taças natalinas para espumante, panetone Lindt de gotas de chocolate, bombons Lindt Lindor e biscoitos amanteigados."
+     },
+     {
+      "image_url": "https://raw.githubusercontent.com/taketopbr/cestas-instagram-midia/main/lote-20261120/carrosseis/carrossel-29-12-reveillon/04.jpg?v=1",
+      "alt_text": "2 DE 4 Na champanheira. O espumante já chega gelando. Na cesta Chandon Festejar: espumante Chandon, taças de vidro fino e champanheira de 7 litros, caponata, chocolate e biscoitos."
+     },
+     {
+      "image_url": "https://raw.githubusercontent.com/taketopbr/cestas-instagram-midia/main/lote-20261120/carrosseis/carrossel-29-12-reveillon/05.jpg?v=1",
+      "alt_text": "3 DE 4 Para a festa. Espumante e petiscos. Na cesta Fortaleza: espumante Borgo Imperiale, panetone Cacau Show com gotas de chocolate, bruschetta de alcachofra, geleia e doce de leite uruguaio."
+     },
+     {
+      "image_url": "https://raw.githubusercontent.com/taketopbr/cestas-instagram-midia/main/lote-20261120/carrosseis/carrossel-29-12-reveillon/06.jpg?v=1",
+      "alt_text": "4 DE 4 Para levar. Leve à casa de quem recebe. Na cesta Cumbuco: espumante espanhol Constelacion, panetone Cacau Show com gotas de chocolate, azeite português, tâmaras e chocolates."
+     },
+     {
+      "image_url": "https://raw.githubusercontent.com/taketopbr/cestas-instagram-midia/main/lote-20261120/carrosseis/carrossel-29-12-reveillon/07.jpg?v=1",
+      "alt_text": "Para a virada Qual vai à sua festa? Fale com a gente e escolha a sua. Fale com a gente no link da bio"
+     }
+    ]
+   }
+  },
+  {
+   "id": "foto-29-12",
+   "data": "2026-12-29",
+   "hora": 12,
+   "acao": "create_image_post",
+   "params": {
+    "image_url": "https://raw.githubusercontent.com/taketopbr/cestas-instagram-midia/main/lote-20261120/fotos/29-12-malta.jpg?v=1",
+    "caption": "Cesta de Natal Malta.\n\nWhiskies Blue Label, Royal Salute 21 anos e Chivas 18 anos, bacalhau do Porto, jamón espanhol e decanter de cristal. Fale com a gente no link da bio.\n\nBeba com moderação. Proibida a venda para menores de 18 anos.\n\n#CestasDeNatal #PresentesDeFimDeAno",
+    "alt_text": "Cesta de Natal Malta: Whiskies Blue Label, Royal Salute 21 anos e Chivas 18 anos, bacalhau do Porto, jamón espanhol e decanter de cristal."
+   }
+  },
+  {
+   "id": "foto-30-12",
+   "data": "2026-12-30",
+   "hora": 10,
+   "acao": "create_image_post",
+   "params": {
+    "image_url": "https://raw.githubusercontent.com/taketopbr/cestas-instagram-midia/main/lote-20261120/fotos/30-12-santorini.jpg?v=1",
+    "caption": "Cesta de Natal Santorini.\n\nWhisky Johnnie Walker Gold Label, dois espumantes italianos, vinho do Porto, vinhos e bacalhau do Porto. Fale com a gente no link da bio.\n\nBeba com moderação. Proibida a venda para menores de 18 anos.\n\n#CestasDeNatal #PresentesDeFimDeAno",
+    "alt_text": "Cesta de Natal Santorini: Whisky Johnnie Walker Gold Label, dois espumantes italianos, vinho do Porto, vinhos e bacalhau do Porto."
+   }
+  },
+  {
+   "id": "reel-30-12-741",
+   "data": "2026-12-30",
+   "hora": 18,
+   "acao": "create_video_post",
+   "params": {
+    "video_url": "https://raw.githubusercontent.com/taketopbr/cestas-instagram-midia/main/lote-20261120/reels/reel-30-12-741.mp4?v=1",
+    "cover_url": "https://raw.githubusercontent.com/taketopbr/cestas-instagram-midia/main/lote-20261120/reels/reel-30-12-741-capa.jpg?v=1",
+    "caption": "O último brinde do ano. Cesta de Natal Moscatel Perini: espumante moscatel Perini no balde de gelo temático, queijo Brie, gnocchi, palitos italianos e doce de leite uruguaio. Fale com a gente no link da bio.\n\nBeba com moderação. Proibida a venda para menores de 18 anos.\n\n#Reveillon #PresentesDeFimDeAno",
+    "share_to_feed": true
+   }
+  },
+  {
+   "id": "carrossel-31-12-feliz-ano-novo",
+   "data": "2026-12-31",
+   "hora": 10,
+   "acao": "create_carousel_post",
+   "params": {
+    "caption": "Feliz Ano Novo. Obrigado por estar com a gente em 2026. Que 2027 venha cheio de brindes. Fale com a gente no link da bio.\n\nBeba com moderação. Proibida a venda para menores de 18 anos.\n\n#FelizAnoNovo #Reveillon",
+    "items": [
+     {
+      "image_url": "https://raw.githubusercontent.com/taketopbr/cestas-instagram-midia/main/lote-20261120/carrosseis/carrossel-31-12-feliz-ano-novo/01.jpg?v=1",
+      "alt_text": "Feliz Ano Novo Um brinde a 2027."
+     },
+     {
+      "image_url": "https://raw.githubusercontent.com/taketopbr/cestas-instagram-midia/main/lote-20261120/carrosseis/carrossel-31-12-feliz-ano-novo/02.jpg?v=1",
+      "alt_text": "Obrigado por 2026 Que o próximo ano venha cheio. Quatro cestas para começar o ano com um brinde."
+     },
+     {
+      "image_url": "https://raw.githubusercontent.com/taketopbr/cestas-instagram-midia/main/lote-20261120/carrosseis/carrossel-31-12-feliz-ano-novo/03.jpg?v=1",
+      "alt_text": "1 DE 4 O brinde. Espumante italiano brut. Na cesta Roma: espumante italiano brut, panetone Cacau Show com gotas de chocolate, lasanha italiana, copa fatiada e geleia."
+     },
+     {
+      "image_url": "https://raw.githubusercontent.com/taketopbr/cestas-instagram-midia/main/lote-20261120/carrosseis/carrossel-31-12-feliz-ano-novo/04.jpg?v=1",
+      "alt_text": "2 DE 4 As taças. Duas taças de cristal. Na cesta Kalamata: vinho argentino, prosecco, duas taças de cristal, queijo Brie e bombons belgas, na caixa de couro."
+     },
+     {
+      "image_url": "https://raw.githubusercontent.com/taketopbr/cestas-instagram-midia/main/lote-20261120/carrosseis/carrossel-31-12-feliz-ano-novo/05.jpg?v=1",
+      "alt_text": "3 DE 4 O rosê. Espumante rosê e vinho tinto. Na cesta Córdoba: espumante rosê, vinho tinto argentino, panetone Cacau Show e petiscos para a ceia."
+     },
+     {
+      "image_url": "https://raw.githubusercontent.com/taketopbr/cestas-instagram-midia/main/lote-20261120/carrosseis/carrossel-31-12-feliz-ano-novo/06.jpg?v=1",
+      "alt_text": "4 DE 4 A mesa. Frios e espumante. Na cesta Japaratinga: vinho chileno, espumante moscato, salame italiano, queijo Brie e panetone Cacau Show."
+     },
+     {
+      "image_url": "https://raw.githubusercontent.com/taketopbr/cestas-instagram-midia/main/lote-20261120/carrosseis/carrossel-31-12-feliz-ano-novo/07.jpg?v=1",
+      "alt_text": "Feliz Ano Novo Até 2027. Obrigado por estar com a Cestas Sofisticadas. Fale com a gente no link da bio"
+     }
+    ]
+   }
+  },
+  {
+   "id": "foto-31-12",
+   "data": "2026-12-31",
+   "hora": 12,
+   "acao": "create_image_post",
+   "params": {
+    "image_url": "https://raw.githubusercontent.com/taketopbr/cestas-instagram-midia/main/lote-20261120/fotos/31-12-franca.jpg?v=1",
+    "caption": "Cesta de Natal França.\n\nWhiskies Royal Salute 21 anos e Chivas Regal 15 anos, bacalhau do Porto, jamón espanhol, dois panetones italianos e decanter de cristal. Fale com a gente no link da bio.\n\nBeba com moderação. Proibida a venda para menores de 18 anos.\n\n#CestasDeNatal #PresentesDeFimDeAno",
+    "alt_text": "Cesta de Natal França: Whiskies Royal Salute 21 anos e Chivas Regal 15 anos, bacalhau do Porto, jamón espanhol, dois panetones italianos e decanter de cristal."
+   }
+  }
+ ]
+}
