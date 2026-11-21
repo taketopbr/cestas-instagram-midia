@@ -3,6 +3,56 @@
  "fuso": "America/Sao_Paulo",
  "itens": [
   {
+   "id": "corp-foto-23-11",
+   "data": "2026-11-23",
+   "hora": 18,
+   "acao": "create_image_post",
+   "params": {
+    "image_url": "https://raw.githubusercontent.com/taketopbr/cestas-instagram-midia/main/corporativas-20261120/foto-23-11-cesta-de-natal-executiva-a-nobreza.jpg?v=1",
+    "caption": "Cesta de Natal Executiva A Nobreza.\n\nWhiskies 21 anos Blue Label e Royal Salute, vinhos argentinos DV Catena e Angélica Zapata, champanhe Veuve Clicquot, panetone italiano e azeite português, na caixa de couro e madeira. Pensou no presente dos seus clientes, sócios ou da sua diretoria? A gente ajuda você a escolher. Fale com a gente no link da bio.\n\nBeba com moderação. Proibida a venda para menores de 18 anos.\n\n#PresentesCorporativos #CestasExecutivas",
+    "alt_text": "Cesta de Natal Executiva A Nobreza: Whiskies 21 anos Blue Label e Royal Salute, vinhos argentinos DV Catena e Angélica Zapata, champanhe Veuve Clicquot, panetone italiano e azeite português, na caixa de couro e madeira."
+   }
+  },
+  {
+   "id": "carrossel-30-11-royal-salute",
+   "data": "2026-11-30",
+   "hora": 10,
+   "acao": "create_carousel_post",
+   "params": {
+    "caption": "Royal Salute 21 anos para quem decide: quatro cestas executivas, com um, dois, três ou seis whiskies. Envie para quem cuida dos presentes de fim de ano da sua empresa. Fale com a gente no link da bio.\n\nBeba com moderação. Proibida a venda para menores de 18 anos.\n\n#PresentesCorporativos #CestasExecutivas",
+    "items": [
+     {
+      "image_url": "https://raw.githubusercontent.com/taketopbr/cestas-instagram-midia/main/corporativas-20261120/carrossel-30-11-01.jpg?v=1",
+      "alt_text": "Capa: Royal Salute 21 anos para quem decide. Cesta 21 anos Royal Salute The Miami na caixa de couro ecológico e veludo."
+     },
+     {
+      "image_url": "https://raw.githubusercontent.com/taketopbr/cestas-instagram-midia/main/corporativas-20261120/carrossel-30-11-02.jpg?v=1",
+      "alt_text": "Fim de ano na empresa: do presente individual ao da diretoria. Quatro cestas com um, dois, três ou seis whiskies Royal Salute 21 anos."
+     },
+     {
+      "image_url": "https://raw.githubusercontent.com/taketopbr/cestas-instagram-midia/main/corporativas-20261120/carrossel-30-11-03.jpg?v=1",
+      "alt_text": "1 de 4, o clássico: Cesta Executiva 21 anos Royal Salute Blend, com whisky Royal Salute The Signature Blend, água Voss, pistaches, queijo Camembert e antepasto peruano."
+     },
+     {
+      "image_url": "https://raw.githubusercontent.com/taketopbr/cestas-instagram-midia/main/corporativas-20261120/carrossel-30-11-04.jpg?v=1",
+      "alt_text": "2 de 4, em dupla: Cesta Executiva Royal Salute Two, com dois whiskies Royal Salute 21 anos Polo Edition, Miami e Rio de Janeiro."
+     },
+     {
+      "image_url": "https://raw.githubusercontent.com/taketopbr/cestas-instagram-midia/main/corporativas-20261120/carrossel-30-11-05.jpg?v=1",
+      "alt_text": "3 de 4, em trio: Cesta Executiva Royal Salute Three, com três whiskies Royal Salute 21 anos, Signature Blend, Orange Rose e Blended Grain."
+     },
+     {
+      "image_url": "https://raw.githubusercontent.com/taketopbr/cestas-instagram-midia/main/corporativas-20261120/carrossel-30-11-06.jpg?v=1",
+      "alt_text": "4 de 4, a coleção: Cesta Executiva 21 Anos Royal Salute Six, com seis whiskies Royal Salute 21 anos variados na caixa de couro e madeira reflorestada."
+     },
+     {
+      "image_url": "https://raw.githubusercontent.com/taketopbr/cestas-instagram-midia/main/corporativas-20261120/carrossel-30-11-07.jpg?v=1",
+      "alt_text": "Para quem é o seu presente? Fale com a gente no link da bio: ajudamos a montar a lista da empresa."
+     }
+    ]
+   }
+  },
+  {
    "id": "carrossel-01-12-whisky",
    "data": "2026-12-01",
    "hora": 10,
@@ -115,6 +165,17 @@
    }
   },
   {
+   "id": "corp-foto-07-12",
+   "data": "2026-12-07",
+   "hora": 18,
+   "acao": "create_image_post",
+   "params": {
+    "image_url": "https://raw.githubusercontent.com/taketopbr/cestas-instagram-midia/main/corporativas-20261120/foto-07-12-cesta-21-anos-royal-salute-orange-rose.jpg?v=1",
+    "caption": "Cesta 21 anos Royal Salute Orange Rose.\n\nWhisky Royal Salute 21 anos Orange Rose, antepasto peruano, caponata, pistaches iranianos, queijo Brie e trufas belgas, na caixa de couro ecológico e veludo. Pensou no presente dos seus clientes, sócios ou da sua diretoria? A gente ajuda você a escolher. Fale com a gente no link da bio.\n\nBeba com moderação. Proibida a venda para menores de 18 anos.\n\n#PresentesCorporativos #CestasExecutivas",
+    "alt_text": "Cesta 21 anos Royal Salute Orange Rose: Whisky Royal Salute 21 anos Orange Rose, antepasto peruano, caponata, pistaches iranianos, queijo Brie e trufas belgas, na caixa de couro ecológico e veludo."
+   }
+  },
+  {
    "id": "foto-08-12",
    "data": "2026-12-08",
    "hora": 12,
@@ -185,6 +246,17 @@
     "cover_url": "https://raw.githubusercontent.com/taketopbr/cestas-instagram-midia/main/lote-20261120/reels/reel-13-12-555-capa.jpg?v=1",
     "caption": "Presente certo não precisa ser enorme. Cesta Gourmet Alma Negra: vinho argentino Alma Negra, duas taças de cristal, queijo Grana Padano, crostinis e brusqueta, na caixa de presente com alça. Fale com a gente no link da bio.\n\nBeba com moderação. Proibida a venda para menores de 18 anos.\n\n#CestasDeNatal #PresentesDeNatal",
     "share_to_feed": true
+   }
+  },
+  {
+   "id": "corp-foto-14-12",
+   "data": "2026-12-14",
+   "hora": 18,
+   "acao": "create_image_post",
+   "params": {
+    "image_url": "https://raw.githubusercontent.com/taketopbr/cestas-instagram-midia/main/corporativas-20261120/foto-14-12-cesta-executiva-royal-salute-blended-grain.jpg?v=1",
+    "caption": "Cesta Executiva Royal Salute Blended Grain.\n\nWhisky Royal Salute 21 anos Blended Grain, champanhe Veuve Clicquot, massa italiana Maestra, caponata e queijo Camembert, na caixa de couro ecológico. Pensou no presente dos seus clientes, sócios ou da sua diretoria? A gente ajuda você a escolher. Fale com a gente no link da bio.\n\nBeba com moderação. Proibida a venda para menores de 18 anos.\n\n#PresentesCorporativos #CestasExecutivas",
+    "alt_text": "Cesta Executiva Royal Salute Blended Grain: Whisky Royal Salute 21 anos Blended Grain, champanhe Veuve Clicquot, massa italiana Maestra, caponata e queijo Camembert, na caixa de couro ecológico."
    }
   },
   {
